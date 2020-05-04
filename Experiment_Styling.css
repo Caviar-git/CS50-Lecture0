@@ -1,0 +1,30 @@
+h2{
+	color:darkgreen;
+	text-align: center;
+}
+#table1{
+	margin:30px;
+	width: 40%;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+#table2{
+	margin:50px;
+	width: 40%;
+	border: 2px solid green;
+	border-collapse: collapse;
+}
+.heads{
+	font-family: Arial, Calibri;
+}
+.title{
+	background-color: lightgreen;
+}
+th,td{
+	border:1px solid black;
+	padding: 6px;
+	text-align: center;
+}
+th{
+	background: lightgray;
+}
