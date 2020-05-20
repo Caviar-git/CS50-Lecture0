@@ -1,0 +1,278 @@
+.title, .sub-title {
+  font-family: 'Sacramento', cursive;
+  color: #25a8a4; }
+
+.intro {
+  font-family: 'Baloo 2', cursive; }
+
+body {
+  margin: 0; }
+
+a {
+  color: #0a143d; }
+
+hr {
+  margin-top: 30px;
+  text-align: center;
+  width: 50px;
+  color: darkgray;
+  border-top: dotted;
+  border-top-width: 6px; }
+
+#main-body1 {
+  text-align: center; }
+
+#main-body2 {
+  background-color: #8ae3da;
+  margin: 100px 200px auto 200px;
+  text-align: center;
+  border: solid;
+  border-color: #8ae3da;
+  border-radius: 40px; }
+
+#main-body3 {
+  margin-top: 100px;
+  padding-left: 20px; }
+
+.head {
+  margin: 0;
+  background-color: #def4f0;
+  text-align: center; }
+
+.title {
+  margin: auto;
+  font-size: 70px;
+  position: relative;
+  top: 90px;
+  font-weight: bold;
+  word-spacing: 10px; }
+
+.sub-title {
+  font-family: 'Balsamiq Sans', cursive;
+  margin: 0;
+  font-size: 22px;
+  position: relative;
+  top: 100px;
+  word-spacing: 3px; }
+
+.mountain {
+  margin-top: 100px;
+  height: 400px;
+  width: 600px;
+  margin-bottom: 10px; }
+
+.me {
+  margin-top: 30px;
+  height: 200px; }
+
+.greeting {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  color: #25a8a4; }
+
+.intro {
+  margin: 20px 150px 20px;
+  font-size: 20px; }
+
+#oppa_facts {
+  float: left;
+  height: 200px;
+  margin: 0px auto auto 270px;
+  position: relative;
+  right: 65px;
+  bottom: 30px; }
+
+#oppa_facts_text {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  position: relative;
+  top: 20px;
+  right: 170px;
+  text-decoration: underline;
+  color: #000; }
+
+.location_logo {
+  height: 110px;
+  float: left;
+  position: relative;
+  top: 20px;
+  right: 380px; }
+
+.location-text {
+  font-family: 'Lobster', cursive;
+  position: relative;
+  right: 400px;
+  top: 50px;
+  font-size: 30px;
+  line-height: 60px;
+  color: #04544d; }
+
+#xav {
+  float: right;
+  height: 170px;
+  margin-right: 80px;
+  margin-top: -40px; }
+
+#xav-text {
+  font-family: 'Lobster', cursive;
+  position: relative;
+  top: 50px;
+  left: 190px;
+  font-size: 32px;
+  color: #04544d;
+  line-height: 60px; }
+
+#smit {
+  float: left;
+  height: 190px;
+  margin: -40px auto auto 40px; }
+
+#smit-text {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: #04544d;
+  margin-top: 85px;
+  position: relative;
+  line-height: 60px;
+  right: 200px; }
+
+#skill, #end-head {
+  color: #25a8a4;
+  font-size: 40px;
+  font-family: roboto, sans-serif;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 70px; }
+
+#developer {
+  height: 135px;
+  float: left;
+  margin: 20px auto auto 260px; }
+
+#developer-text, #tech-text, #extra-text, #nontech-text {
+  margin: auto 380px 95px 430px;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 28px; }
+
+#oppa_red, #oppa_red2 {
+  height: 200px;
+  float: right;
+  margin: -200px 220px auto auto; }
+
+/*#oppa-smile{
+  height:20px;
+  height:100px;
+}*/
+#tech {
+  height: 150px;
+  margin: 20px 320px auto 20px;
+  float: right; }
+
+#tech-text, #extra-text {
+  margin: 0px 470px 95px 310px; }
+
+#oppa_smile {
+  height: 200px;
+  float: left;
+  margin: -150px auto auto 120px; }
+
+#nontech {
+  height: 170px;
+  float: left;
+  margin: 20px auto auto -80px; }
+
+#nontech-text {
+  margin: 120px 360px 105px 435px; }
+
+#extra {
+  height: 140px;
+  float: right;
+  margin-right: -50px;
+  margin-top: 20px; }
+
+#extra-text {
+  margin-right: 400; }
+
+#oppa_red2 {
+  margin: -190px 180px auto auto; }
+
+#end-para {
+  color: #25a8a4;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px; }
+
+#social {
+  text-align: center;
+  margin-top: 50px; }
+
+#linkedin {
+  height: 60px; }
+
+#gmail, #git {
+  height: 60px;
+  margin-left: 30px; }
+
+#footer {
+  margin-top: 60px;
+  background-color: #25a8a4;
+  text-align: center;
+  height: 90px;
+  padding-top: 30px;
+  padding-bottom: 0px; }
+
+#email {
+  text-decoration: underline;
+  color: #04544d;
+  font-family: 'Merriweather', serif;
+  font-size: 17px; }
+
+#copyright {
+  font-family: "Merriweather", serif;
+  font-size: 12px;
+  color: white; }
+
+/*.giphy-embed{
+  display: inline-block;
+  margin-top:30px;
+  margin-left: 0px;
+  border: 0;
+  width:300px;
+  height:200px;
+}
+.bizzweb{
+  position: relative;
+  top:30px;
+  width:90px;
+
+}
+.olive{
+  position: absolute;
+  top:20px;
+  left:600px;
+  width:150px;
+}*/
+/*%cloud{
+  height:50;
+  width:150px;
+}
+.cloud-top{
+  @extend %cloud;
+  position:absolute;
+  top:50px;
+  right:380px;
+}
+.cloud-bottom{
+  @extend %cloud;
+  position: absolute;
+  top:200px;
+  left:420px;
+}*/
+
+/*# sourceMappingURL=BizzWeb.css.map */
